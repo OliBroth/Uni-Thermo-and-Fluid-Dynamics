@@ -1,0 +1,26 @@
+﻿Data Section,,1,1,1,,,
+Data Section Time (sec),,325.32,325.32,325.32,,,
+Begin Sample,Time s,85.6,134.4,183.6,,,
+Data Section,,1,1,1,,,
+Data Section Time (sec),,325.32,325.32,325.32,,,
+End Sample,Time s,93.9,142.3,192.2,,,
+Wind Speed Syn (m/s),mean,10.03061962,19.9662719,29.96950084,,,
+Yaw Angle Actual (°),mean,0,0,0,,,
+Pitch Actuator Actual (user defined),mean,0,0,0,,,
+Air Density (kg/m3),mean,1.142851398,1.147641126,1.14522061,,Mean Density,1.145237711
+Pressure Ambient Tunnel Hall (mbar),mean,975.665873,975.6818083,975.6835486,,Pressure avg,975.6770766
+Temperature Tunnel Air Temp (°C),mean,24.25881503,23.02238263,23.648923,,Tunnel Temp Avg,23.64337355
+Temperature Ambient Tunnel Hall (°C),mean,23.98011742,23.95400965,23.92156747,,Ambient Temp Avg,23.95189818
+Dynamic Viscosity (user defined),mean,1.85E-05,1.84E-05,1.84E-05,,,
+Drag Force (N),mean,1.643383412,6.48113785,14.414478,,,
+Side Force (N),mean,0.006431388,0.004566461,0.092165853,,,
+Lift Force (N),mean,-0.054159452,-0.220798103,-0.698499557,,,
+Roll Moment (Nm),mean,-0.021777305,-0.058074778,-0.03861265,,,
+Pitch Moment (Nm),mean,-1.660695953,-6.568975388,-14.66872631,,,
+Yaw Moment (Nm),mean,0.002244109,0.01373277,0.038700504,,,
+Resolved Force X (N),mean,1.643383411,6.481137849,14.41447799,,,
+Resolved Force Y (N),mean,0.006431587,0.004567248,0.092167605,,,
+Resolved Force Z (N),mean,-0.054159452,-0.220798103,-0.698499557,,,
+Resolved Moment Roll (Nm),mean,-0.027565532,-0.062184503,-0.121561712,,,
+Resolved Moment Pitch (Nm),mean,-0.181650885,-0.735951331,-1.695696126,,,
+Resolved Moment Yaw (Nm),mean,0.002244109,0.01373277,0.038700504,,,
